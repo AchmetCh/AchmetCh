@@ -1,10 +1,34 @@
-👋 Hi there! I'm Achmet.
+
+# Hi there 👋, I'm Achmet Ch
 
 🚀 Full Stack MERN Developer
 
-🌟 Passionate about building scalable web applications and solving complex problems with modern t
+🌟 Passionate about building scalable web applications and solving complex problems with modern technologies.
+
+💻 **Technologies I work with:**
+- **Frontend:** React, HTML, CSS, JavaScript
+- **Backend:** Node.js, Express.js
+- **Database:** MongoDB
+- **Others:** Git, Docker, RESTful APIs, GraphQL
+
+🌐 Check out my projects below and feel free to connect with me!
+
+📫 Reach me at: [gigsakos@gmail.com](mailto:gigsakos@gmail.com)
+
+---
+
+### My GitHub Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AchmetCh&layout=compact)
+
 
 <!--
+Hi 👋! My name is Achmet and I'm a Full Stack Web Developer :)
+
+
+🌟 Passionate about building scalable web applications and solving complex problems with modern t
+
+
 **AchmetCh/AchmetCh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
