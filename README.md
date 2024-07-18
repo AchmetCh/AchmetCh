@@ -13,7 +13,7 @@ Hi there 👋, I'm Achmet<br>🚀 Full Stack MERN Developer<br><br>🌟 Passiona
 ![](https://github-readme-stats.vercel.app/api?username=AchmetCh&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AchmetCh&theme=shadow_green&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AchmetCh&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
+</div>
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AchmetCh&theme=shadow_green&no-frame=false&no-bg=false&margin-w=4)
 
@@ -25,6 +25,6 @@ Hi there 👋, I'm Achmet<br>🚀 Full Stack MERN Developer<br><br>🌟 Passiona
 
 ---
 [![](https://visitcount.itsvg.in/api?id=AchmetCh&icon=2&color=3)](https://visitcount.itsvg.in)
-</div>
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
