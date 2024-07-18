@@ -1,5 +1,4 @@
-
-# Hi there 👋, I'm Achmet Ch
+# Hi there 👋, I'm Achmet
 
 🚀 Full Stack MERN Developer
 
@@ -20,6 +19,9 @@
 ### My GitHub Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AchmetCh&layout=compact)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AchmetCh&show_icons=true&count_private=true&include_all_commits=true)
+
 
 
 <!--
