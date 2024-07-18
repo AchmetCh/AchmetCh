@@ -18,10 +18,9 @@
 
 ### My GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AchmetCh&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AchmetCh&layout=compact&theme=radical&bg_color=000000)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AchmetCh&show_icons=true&count_private=true&include_all_commits=true)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AchmetCh&show_icons=true&count_private=true&include_all_commits=true&theme=radical&bg_color=000000)
 
 
 <!--
