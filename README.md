@@ -1,4 +1,8 @@
-## Hi there 👋
+👋 Hi there! I'm Achmet.
+
+🚀 Full Stack MERN Developer
+
+🌟 Passionate about building scalable web applications and solving complex problems with modern t
 
 <!--
 **AchmetCh/AchmetCh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
