@@ -8,7 +8,9 @@
 - **Frontend:** React, HTML, CSS, JavaScript
 - **Backend:** Node.js, Express.js
 - **Database:** MongoDB
-- **Others:** Git, Docker, RESTful APIs, GraphQL
+- **CMS:** Wordpress, Joomla, Opencart, Prestashop
+- **Others:** Git, RESTful APIs
+
 
 🌐 Check out my projects below and feel free to connect with me!
 
